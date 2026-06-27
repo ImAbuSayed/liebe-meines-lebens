@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/liebe-meines-lebens/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Liebe meines Lebens](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/liebe-meines-lebens/) |
+| **Get License** | [Music Rights & Licensing for Liebe meines Lebens](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/liebe-meines-lebens/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, steig ein, die Stadt schläft, aber wir sind wach
+> Der Bass schlägt, dein Herzschlag, wir machen die Nacht zum Tag
+> Rote Lippen, schwarzer Benz, wir flieh'n vor dem System
+> Liebe meines Lebens, Baby, wir beide sind extrem
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
