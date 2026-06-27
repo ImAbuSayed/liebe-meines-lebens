@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/liebe-meines-lebens/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Liebe meines Lebens](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/liebe-meines-lebens/) |
+| **Get License** | [License this song: Liebe meines Lebens](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/liebe-meines-lebens/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3764bbe6569f91d7ce62a43982b5158a9506448a451d58ec07155e9c53357187` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
